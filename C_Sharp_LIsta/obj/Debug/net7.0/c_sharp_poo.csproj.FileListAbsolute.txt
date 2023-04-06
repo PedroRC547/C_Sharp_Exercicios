@@ -1,0 +1,15 @@
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\bin\Debug\net7.0\c_sharp_poo.exe
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\bin\Debug\net7.0\c_sharp_poo.deps.json
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\bin\Debug\net7.0\c_sharp_poo.runtimeconfig.json
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\bin\Debug\net7.0\c_sharp_poo.dll
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\bin\Debug\net7.0\c_sharp_poo.pdb
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.csproj.AssemblyReference.cache
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.AssemblyInfoInputs.cache
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.AssemblyInfo.cs
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.csproj.CoreCompileInputs.cache
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.dll
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\refint\c_sharp_poo.dll
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.pdb
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\c_sharp_poo.genruntimeconfig.cache
+C:\Users\pedro.candiani\Desktop\c_sharp_poo\obj\Debug\net7.0\ref\c_sharp_poo.dll
